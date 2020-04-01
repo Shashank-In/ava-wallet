@@ -42,15 +42,6 @@ let avm = ava.AVM();
 let keyChain = avm.keyChain();
 
 
-console.log(avm);
-console.log(slopes.AVMConstants);
-
-
-
-
-
-
-
 
 function isValidAddress(addr:string){
     try{
